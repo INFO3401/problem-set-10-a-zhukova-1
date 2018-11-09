@@ -1,0 +1,16 @@
+Anastasiya Zhukova
+INFO 3401 -- Problem ste 10, Friday problems
+
+4. Identify the independent variable(s) and its type (e.g., categorical, continuous, or discrete), the dependent variable and its type, and the null hypothesis for each of the following scenarios: 
+
+(a) What candies contain more sugar, those with caramel or those with chocolate?
+Dependent varaible: Sugar %, Type: continuous
+Independent variables: Caramel and chocolate, Type: Categorical
+
+(b) Are there more split ticket voters in blue states or red states? 
+Dependent varaible: # of ticket voters, Type: discrete
+Independent variable: Blue vs red states, Type: categorical
+
+(c) Do phones with longer battery life sell at a higher or lower rate than other phones?
+Dependent varaible: battery life of phone, Type: continouous
+Independent variable: phone sales, Type: continuous
